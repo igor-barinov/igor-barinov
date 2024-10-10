@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# Hi 👋, I'm Igor
+
+## A full-stack developer who currently works on Golang SaaS apps
+## I'm always looking for ways to use established technologies in a new way 🛰️
+## I am currently looking for work 💼
+## Feel free to contact me on [<img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png" width="100"/>](https://www.linkedin.com/in/igor-barinov/)
+
+
 <!--
 **igor-barinov/igor-barinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
