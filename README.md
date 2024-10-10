@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Igor
 
 ## A full-stack developer who currently works on Golang SaaS apps
