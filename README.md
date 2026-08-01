@@ -1,6 +1,6 @@
 # Hi 👋, I'm Igor
 
-## A full-stack developer who currently works on Golang services
+## A software engineer who currently works on Golang services
 ## Feel free to contact me on [<img src="https://cdn.uconnectlabs.com/wp-content/uploads/sites/46/2022/08/Linkedin-Logo-e1660320077673.png" width="100"/>](https://www.linkedin.com/in/igor-barinov/)
 
 
